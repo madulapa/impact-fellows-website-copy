@@ -1,0 +1,90 @@
+
+.navbar {
+    background-color: #80CCC3;
+
+}
+
+
+nav {
+    padding:10px;
+    
+}
+
+nav button {
+    color: white;
+}
+
+h1 {
+    padding-top: 25px;
+}
+
+
+
+h2,h1 {
+    text-align: center;
+    margin: 15px;
+}
+
+
+
+
+
+.header-img h1 {
+    font-size: 4em;
+    line-height: 800px;
+}
+
+
+
+
+footer {
+    background-image: url('images/Wave.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    margin:0;
+    text-align: left;
+}
+footer .container {
+    padding-top: 150px; 
+}
+
+footer .row1 {
+    margin-bottom: 30px;
+    
+}
+footer .row2 {
+    margin-bottom: 50px;
+}
+footer a:hover {
+    color: #80CCC3;
+}
+
+.newsletter {
+    margin-right: 100px;
+}
+a {
+    color: white;
+}
+h5 {
+    color: #80CCC3;
+}
+#enterEmail {
+    background-color: #0C3A40;
+    color: white;
+    border: none;
+}
+
+.col-sm-12 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.col2 {
+    margin-bottom: 20px;
+}
+.navbar-nav a {
+    margin-left: 20px;
+}
+footer .col-lg-3, footer .col-lg-2 {
+    text-align: left;
+}
